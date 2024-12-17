@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 9aa2d29a8a106c1498a54d336f590429
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1541620632935529597
+    second: png-transparent-planet-solar-system_0
+  - first:
+      213: 244558754102952024
+    second: png-transparent-planet-solar-system_1
+  - first:
+      213: 4128087654770100244
+    second: png-transparent-planet-solar-system_2
+  - first:
+      213: -3145207991017732992
+    second: png-transparent-planet-solar-system_3
+  - first:
+      213: 149002189349068521
+    second: png-transparent-planet-solar-system_4
+  - first:
+      213: 8104081568306938482
+    second: png-transparent-planet-solar-system_5
+  - first:
+      213: -4200477040758305893
+    second: png-transparent-planet-solar-system_6
+  - first:
+      213: 3295264288682951164
+    second: png-transparent-planet-solar-system_7
+  - first:
+      213: 6855159391564141454
+    second: png-transparent-planet-solar-system_8
+  - first:
+      213: -4243574488414243848
+    second: png-transparent-planet-solar-system_9
+  - first:
+      213: -8875112437039671973
+    second: png-transparent-planet-solar-system_10
+  - first:
+      213: -293953493891267916
+    second: png-transparent-planet-solar-system_11
+  - first:
+      213: 3076669339988543638
+    second: png-transparent-planet-solar-system_12
+  - first:
+      213: -1308256620899317744
+    second: png-transparent-planet-solar-system_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 862
+        width: 504
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf88c3ccfe46510800000000000000
+      internalID: 1541620632935529597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1046
+        width: 109
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850c40124e8d46300800000000000000
+      internalID: 244558754102952024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 950
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4184f38b9d9e94930800000000000000
+      internalID: 4128087654770100244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_3
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 713
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0840ba60ff9f954d0800000000000000
+      internalID: -3145207991017732992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 907
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee18e6a3bc511200800000000000000
+      internalID: 149002189349068521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 914
+        width: 89
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272c9b5cf3b777070800000000000000
+      internalID: 8104081568306938482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 556
+        width: 250
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bca62f268e4b5c0800000000000000
+      internalID: -4200477040758305893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 460
+        width: 191
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf14af759612bbd20800000000000000
+      internalID: 3295264288682951164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 491
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e831ddc752b622f50800000000000000
+      internalID: 6855159391564141454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 432
+        width: 249
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3b8287c7bcb15c0800000000000000
+      internalID: -4243574488414243848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 267
+        width: 248
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b555998c24445d480800000000000000
+      internalID: -8875112437039671973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 479
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b24020dadaabebf0800000000000000
+      internalID: -293953493891267916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 17
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6984a5db67682ba20800000000000000
+      internalID: 3076669339988543638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-planet-solar-system_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 161
+        width: 249
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0184e34e88328dde0800000000000000
+      internalID: -1308256620899317744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      png-transparent-planet-solar-system_0: 1541620632935529597
+      png-transparent-planet-solar-system_1: 244558754102952024
+      png-transparent-planet-solar-system_10: -8875112437039671973
+      png-transparent-planet-solar-system_11: -293953493891267916
+      png-transparent-planet-solar-system_12: 3076669339988543638
+      png-transparent-planet-solar-system_13: -1308256620899317744
+      png-transparent-planet-solar-system_2: 4128087654770100244
+      png-transparent-planet-solar-system_3: -3145207991017732992
+      png-transparent-planet-solar-system_4: 149002189349068521
+      png-transparent-planet-solar-system_5: 8104081568306938482
+      png-transparent-planet-solar-system_6: -4200477040758305893
+      png-transparent-planet-solar-system_7: 3295264288682951164
+      png-transparent-planet-solar-system_8: 6855159391564141454
+      png-transparent-planet-solar-system_9: -4243574488414243848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
