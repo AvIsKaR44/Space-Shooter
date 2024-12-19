@@ -12,8 +12,15 @@ namespace SpaceShooter
         [SerializeField] private CameraController m_CameraController;
         [SerializeField] private MovementController m_MovementController;
 
+        private int m_Score;
+        private int m_NumKills;
+
+        public int Score => m_Score;
+        public int NumKills => m_NumKills;
+        public int NumLives => m_NumLives;
+
         /// <summary>
-        /// �������� ������, ����� ������� ������ �������
+        /// Задержка на 2 секунды, после взрыва корабля
         /// </summary>
         [SerializeField] private float m_RespawnDelay = 2.0f;
 
@@ -71,6 +78,16 @@ namespace SpaceShooter
             {
                 Debug.LogError("PlayerShipPrefab is null. Make sure it is assigned in the inspector.");
             }
+        }
+
+        public void AddKill()
+        {
+            m_NumKills += 1;
+        }
+
+        public void AddScore(int num)
+        {
+            m_Score += num;
         }
     }
 }

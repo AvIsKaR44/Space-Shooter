@@ -21,6 +21,7 @@ namespace SpaceShooter
         /// Starting hitpoints.
         /// </summary>
         [SerializeField] private int m_HitPoints;
+        public int MaxHitPoints => m_HitPoints;
 
 
         /// <summary>
@@ -123,5 +124,8 @@ namespace SpaceShooter
 
         [SerializeField] private UnityEvent m_EventOnDeath;
         public UnityEvent EventOnDeath => m_EventOnDeath;
+
+        [SerializeField] private int m_ScoreValue;
+        public int ScoreValue => m_ScoreValue;
     }
 }

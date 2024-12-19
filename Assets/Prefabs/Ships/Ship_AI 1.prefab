@@ -364,7 +364,7 @@ MonoBehaviour:
   m_NavigationAngular: 0.5
   m_RandomSelectMovePointTime: 5
   m_FindNewTargetTime: 1
-  m_ShootDelay: 0.5
+  m_ShootDelay: 1.5
   m_EvadeRayLenght: 20
   m_EvadeTime: 3
 --- !u!114 &4332957886509747350
@@ -401,6 +401,7 @@ MonoBehaviour:
   m_EventOnDeath:
     m_PersistentCalls:
       m_Calls: []
+  m_ScoreValue: 10
   m_Mass: 1
   m_Thrust: 300
   m_Mobility: 200
