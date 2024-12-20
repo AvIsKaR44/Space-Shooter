@@ -53,7 +53,6 @@ namespace SpaceShooter
         {
             if (m_TurretProperties == null)
             {
-                Debug.LogWarning("Turret properties are not assigned for turret: " + name);
                 return;
             }
 
@@ -61,8 +60,7 @@ namespace SpaceShooter
             if (m_RefireTimer > 0) return;
 
             if (m_Ship.DrawAmmo(m_TurretProperties.AmmoUsage) == false)
-            {
-                Debug.LogWarning("Not enough ammo to fire from turret: " + name);
+            {                
                 return;
             }
 
@@ -95,8 +93,7 @@ namespace SpaceShooter
 
             m_RefireTimer = 0;
             m_TurretProperties = props;
-
-            Debug.Log("Turret " + name + " assigned loadout: " + props.name);
+            
         }
 
         private Transform FindClosestTarget()

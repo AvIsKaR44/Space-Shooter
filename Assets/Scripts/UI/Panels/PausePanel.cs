@@ -14,7 +14,7 @@ namespace SpaceShooter
         }
 
         public void ShowPause()
-        {
+        {           
             m_Panel.SetActive(true);
             Time.timeScale = 0;
         }

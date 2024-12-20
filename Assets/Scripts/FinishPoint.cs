@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 namespace SpaceShooter
 {
-    public class FinishPoint : MonoBehaviour
+    public class FinishPoint : LevelController
     {
         /// <summary>
         /// Настройки логики финиша(телепорт, таймер, сообщение о завершении уровня).

@@ -61,7 +61,7 @@ MonoBehaviour:
   m_DebrisPrefabs:
   - {fileID: 1056457917894010359, guid: 68a596949e6382a4aa8952ef9e5d9d3a, type: 3}
   m_Area: {fileID: 7845532599326281109}
-  m_NumDebris: 10
+  m_NumDebris: 50
   m_RandomSpeed: 1
 --- !u!1 &2336218391911780032
 GameObject:
@@ -108,7 +108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d5e3adb78c33b844b692cb3054b797f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Radius: 30
+  m_Radius: 25
 --- !u!114 &4788333046334589368
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -127,9 +127,9 @@ MonoBehaviour:
   - {fileID: 8683647457859786861, guid: ca77d02383192bd48a80382559cc057e, type: 3}
   m_Area: {fileID: 4049632939155534523}
   m_SpawnMode: 1
-  m_NumSpawns: 10
-  m_RespawnTime: 10
-  m_Timer: 10
+  m_NumSpawns: 5
+  m_RespawnTime: 20
+  m_Timer: 20
 --- !u!1 &6024940076105703449
 GameObject:
   m_ObjectHideFlags: 0
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d5e3adb78c33b844b692cb3054b797f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Radius: 30
+  m_Radius: 25
 --- !u!114 &6300053447483235420
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -194,9 +194,9 @@ MonoBehaviour:
   - {fileID: 8683647457859786861, guid: e0355821f76cfe34a9a3b3d0c2e46ca9, type: 3}
   m_Area: {fileID: 2855034140656155118}
   m_SpawnMode: 1
-  m_NumSpawns: 10
-  m_RespawnTime: 10
-  m_Timer: 10
+  m_NumSpawns: 5
+  m_RespawnTime: 20
+  m_Timer: 20
 --- !u!1 &7243346381037403935
 GameObject:
   m_ObjectHideFlags: 0
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9d5e3adb78c33b844b692cb3054b797f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Radius: 30
+  m_Radius: 25
 --- !u!114 &5195180586914517452
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -261,9 +261,9 @@ MonoBehaviour:
   - {fileID: 8683647457859786861, guid: 15ee4a4f7b496934abfdd69207846bae, type: 3}
   m_Area: {fileID: 8684478043348852300}
   m_SpawnMode: 1
-  m_NumSpawns: 10
-  m_RespawnTime: 10
-  m_Timer: 10
+  m_NumSpawns: 5
+  m_RespawnTime: 20
+  m_Timer: 20
 --- !u!1 &8465332321009512641
 GameObject:
   m_ObjectHideFlags: 0

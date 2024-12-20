@@ -327,6 +327,7 @@ MonoBehaviour:
   m_EventOnDeath:
     m_PersistentCalls:
       m_Calls: []
+  m_ScoreValue: 0
   m_Mass: 1
   m_Thrust: 250
   m_Mobility: 300
@@ -471,7 +472,7 @@ TrailRenderer:
       serializedVersion: 2
       key0: {r: 0.12156861, g: 0.5732477, b: 0.8392157, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 1}
-      key2: {r: 1, g: 1, b: 1, a: 0}
+      key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
       key5: {r: 0, g: 0, b: 0, a: 0}
@@ -479,7 +480,7 @@ TrailRenderer:
       key7: {r: 0, g: 0, b: 0, a: 0}
       ctime0: 37201
       ctime1: 60909
-      ctime2: 55705
+      ctime2: 0
       ctime3: 0
       ctime4: 0
       ctime5: 0
@@ -494,7 +495,7 @@ TrailRenderer:
       atime6: 0
       atime7: 0
       m_Mode: 0
-      m_ColorSpace: 0
+      m_ColorSpace: -1
       m_NumColorKeys: 2
       m_NumAlphaKeys: 2
     numCornerVertices: 0

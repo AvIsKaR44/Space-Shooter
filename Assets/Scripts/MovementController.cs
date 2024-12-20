@@ -49,9 +49,6 @@ namespace SpaceShooter
 
             if (m_ControlMode == ControlMode.Mobile)
                 ControlMobile();
-
-            Debug.Log("ThrustControl: " + m_TargetShip.ThrustControl);
-            Debug.Log("TorqueControl: " + m_TargetShip.TorqueControl);
         }
 
         private void ControlMobile()

@@ -18,7 +18,7 @@ namespace SpaceShooter
             return (Vector2) transform.position + (Vector2) UnityEngine.Random.insideUnitCircle * m_Radius;
         }
 
-#if UNITY_EDITOR
+        #if UNITY_EDITOR
         private static Color GizmoColor = new Color(0, 1, 0, 0.3f);
 
         private void OnDrawGizmosSelected()
@@ -26,7 +26,7 @@ namespace SpaceShooter
             Handles.color = GizmoColor;
             Handles.DrawSolidDisc(transform.position, transform.forward, m_Radius);
         }
-#endif
+        #endif
 
     }
 }

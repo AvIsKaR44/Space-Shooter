@@ -91,8 +91,7 @@ namespace SpaceShooter
         [SerializeField] private Turret[] m_Turrets;
         
         public void Fire(TurretMode mode)
-        {
-            Debug.Log("Fire");
+        {            
             for (int i  = 0; i < m_Turrets.Length; i++)
             {
                 if (m_Turrets[i].Mode == mode)
