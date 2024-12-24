@@ -323,7 +323,7 @@ MonoBehaviour:
   m_Indestructible: 0
   m_HitPoints: 100
   m_ExplosionPrefab: {fileID: 1234402683937528247, guid: f217151137c8cf94ba4bd1df305fd49f, type: 3}
-  m_TeamId: 0
+  m_TeamId: 5
   m_EventOnDeath:
     m_PersistentCalls:
       m_Calls: []

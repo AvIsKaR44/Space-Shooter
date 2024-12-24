@@ -11,7 +11,7 @@ namespace SpaceShooter
             {
                 if(Player.Instance.ActiveShip == null) return false;
 
-                if(Player.Instance.Score >= m_Score)
+                if (Player.Instance.Score >= m_Score)
                 {
                     return true;
                 }

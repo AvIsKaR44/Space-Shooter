@@ -39,7 +39,7 @@ namespace SpaceShooter
             }
             else
             {
-                Debug.Log("Game Over!");
+                Debug.Log("Game Over!");                               
             }
         }
 
