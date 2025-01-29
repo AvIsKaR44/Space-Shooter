@@ -170,6 +170,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5195180586914517452, guid: 476370016c4481e418750e6792bee451, type: 3}
+      propertyPath: m_NumSpawns
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5195180586914517452, guid: 476370016c4481e418750e6792bee451, type: 3}
+      propertyPath: m_SpawnMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6300053447483235420, guid: 476370016c4481e418750e6792bee451, type: 3}
+      propertyPath: m_NumSpawns
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6300053447483235420, guid: 476370016c4481e418750e6792bee451, type: 3}
+      propertyPath: m_SpawnMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8465332321009512641, guid: 476370016c4481e418750e6792bee451, type: 3}
       propertyPath: m_Name
       value: BattleRoyal
