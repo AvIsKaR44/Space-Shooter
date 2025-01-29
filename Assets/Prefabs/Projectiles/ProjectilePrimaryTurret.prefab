@@ -93,8 +93,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 937156025209469569}
-  - component: {fileID: 8522959229309410035}
   - component: {fileID: 7520086746345162712}
+  - component: {fileID: 9021070363651969970}
   m_Layer: 0
   m_Name: ProjectilePrimaryTurret
   m_TagString: Untagged
@@ -119,23 +119,6 @@ Transform:
   - {fileID: 4703382584390069270}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8522959229309410035
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3601014905006520850}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aed5913c480743d479ac2db67545aff5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Nickname: PrimaryTurret
-  m_Velocity: 20
-  m_LifeTime: 2
-  m_Damage: 20
-  ImpactEffectPrefab: {fileID: 0}
 --- !u!82 &7520086746345162712
 AudioSource:
   m_ObjectHideFlags: 0
@@ -232,6 +215,23 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &9021070363651969970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3601014905006520850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8105c70ee63cc8f4b9a50af1f4ddd1c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Nickname: 
+  m_Velocity: 30
+  m_LifeTime: 1
+  m_Damage: 10
+  m_ImpactEffectPrefab: {fileID: 0}
 --- !u!1 &3786326836426434064
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9391d4da70095634d8b66a0e0802ae38, type: 3}
   m_Name: Level_01
   m_EditorClassIdentifier: 
-  m_Title: First flight
+  m_Title: Asteroids
   m_SceneName: Level_01
-  m_PreviewImage: {fileID: -6008411995987837888, guid: 0980161503f975b4f854373a289737f4, type: 3}
+  m_PreviewImage: {fileID: 21300006, guid: 1bd6c74c058d5f143a391104c445e845, type: 3}
   m_NextLevel: {fileID: 11400000, guid: cb41a141f9fa7d043a55af1a8a45b901, type: 2}
