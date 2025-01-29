@@ -291,9 +291,7 @@ namespace SpaceShooter
             m_FindNewTargetTimer = new Timer(m_FindNewTargetTime);
 
             m_FindNewTargetTimer.Start(m_FindNewTargetTime);
-            m_FireTimer.Start(m_ShootDelay);
-
-            m_RandomizeDirectionTimer.Start(m_RandomSelectMovePointTime);                     
+            m_FireTimer.Start(m_ShootDelay);                          
         }
 
         private void UpdateTimers()
